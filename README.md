@@ -31,9 +31,6 @@ This repository contains the configuration and deployment details for my **stati
 ✅ **Fast & Secure** – With CloudFront & HTTPS  
 ✅ **Custom Domain** – Managed via Route 53  
 
-## 📸 Screenshot  
-![Portfolio Website](screenshot.png) *(Replace with an actual screenshot of your site)*  
-
 ## 📢 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/praveen-methraskar-067441172/)
 🔗 [Portfolio Website](http://praveenmethraskar.site/)  
